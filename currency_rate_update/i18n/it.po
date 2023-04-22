@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-27 00:40+0000\n"
-"PO-Revision-Date: 2023-01-30 19:45+0000\n"
-"Last-Translator: Francesco Foresti <francesco.foresti@ooops404.com>\n"
+"PO-Revision-Date: 2023-04-14 14:34+0000\n"
+"Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: Italian (https://www.transifex.com/oca/teams/23907/it/)\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -32,9 +32,9 @@ msgid ""
 "specific.\" role=\"img\" aria-label=\"Values set here are company-specific."
 "\" groups=\"base.group_multi_company\"/>"
 msgstr ""
-"<span class=\"fa fa-lg fa-building-o\" title=\"I valori impostati sono "
-"specifici per azienda.\" role=\"img\" aria-label=\"I valori impostati sono "
-"specifici per azienda.\" groups=\"base.group_multi_company\"/>"
+"<span class=\"fa fa-lg fa-building-o\" title=\"I valori impostati qui sono "
+"specifici per azienda.\" role=\"img\" aria-label=\"I valori impostati qui "
+"sono specifici per azienda.\" groups=\"base.group_multi_company\"/>"
 
 #. module: currency_rate_update
 #: model_terms:ir.ui.view,arch_db:currency_rate_update.res_currency_rate_provider_form_view
@@ -203,7 +203,7 @@ msgstr "Giorni"
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_currency_rate_provider__display_name
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_currency_rate_update_wizard__display_name
 msgid "Display Name"
-msgstr "Nome da visualizzare"
+msgstr "Nome visualizzato"
 
 #. module: currency_rate_update
 #: model:ir.model.fields,help:currency_rate_update.field_res_company__currency_rates_autoupdate
@@ -225,19 +225,19 @@ msgstr "Banca Centrale Europea"
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_currency_rate__message_follower_ids
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_currency_rate_provider__message_follower_ids
 msgid "Followers"
-msgstr "Followers"
+msgstr "Seguito da"
 
 #. module: currency_rate_update
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_currency_rate__message_channel_ids
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_currency_rate_provider__message_channel_ids
 msgid "Followers (Channels)"
-msgstr "Followers (Canali)"
+msgstr "Seguito da (canali)"
 
 #. module: currency_rate_update
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_currency_rate__message_partner_ids
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_currency_rate_provider__message_partner_ids
 msgid "Followers (Partners)"
-msgstr "Followers (Contatti)"
+msgstr "Seguito da (partner)"
 
 #. module: currency_rate_update
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_company__id
@@ -281,7 +281,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_currency_rate__message_is_follower
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_currency_rate_provider__message_is_follower
 msgid "Is Follower"
-msgstr "E' un follower"
+msgstr "Sta seguendo"
 
 #. module: currency_rate_update
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_company____last_update
@@ -319,7 +319,7 @@ msgstr "Allegato principale"
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_currency_rate__message_has_error
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_currency_rate_provider__message_has_error
 msgid "Message Delivery error"
-msgstr "Messaggio errore di consegna"
+msgstr "Errore consegna messaggio"
 
 #. module: currency_rate_update
 #: model:ir.model.fields,field_description:currency_rate_update.field_res_currency_rate__message_ids
